@@ -264,7 +264,7 @@ Function Prototypes
     <ul>
     <li><a href="https://www.github.com/Maryann-Mweru-Wambui-Programmer
 ">Github</a></li>
-    <li><a href=#"https://twitter.com/mwerumaryann1?t=otxC-KZwftnL_V5lksfc6A&s=35">Twitter</a></li>
+    <li><a href="https://twitter.com/mwerumaryann1?t=otxC-KZwftnL_V5lksfc6A&s=35">Twitter</a></li>
     <li><a href="mailto:mwerumaryann@gmail.com">e-mail</a></li>
     </ul>
 </details>
